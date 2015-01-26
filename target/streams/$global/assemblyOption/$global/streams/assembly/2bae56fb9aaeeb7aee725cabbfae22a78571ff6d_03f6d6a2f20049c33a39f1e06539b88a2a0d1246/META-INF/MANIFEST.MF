@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: org.akkaresque
+Implementation-Title: Akka-Resque
+Implementation-Version: 0.0.5
+Implementation-Vendor-Id: org.akkaresque
+Specification-Vendor: org.akkaresque
+Specification-Title: Akka-Resque
+Specification-Version: 0.0.5
+Main-Class: org.akkaresque.demo.Demo
+
